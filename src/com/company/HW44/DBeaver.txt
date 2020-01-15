@@ -1,0 +1,4 @@
+create table cities1(
+id serial primary key,
+name varchar(50) not null,
+people_count int not null);
